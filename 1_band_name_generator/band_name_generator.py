@@ -1,5 +1,5 @@
 """
-Day 1 Project: Band Name Generator
+Day 1 Project (Variables): Band Name Generator
 
 This project simply generates a band name suggestion by using
 the user's personal details.

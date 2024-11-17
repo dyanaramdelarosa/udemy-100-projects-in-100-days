@@ -1,5 +1,5 @@
 """
-Day 2 Project: Tip Calculator
+Day 2 Project (Data Types): Tip Calculator
 
 This project calculates how much each person would have to pay given a
 bill and a tip amount shared by n people.
