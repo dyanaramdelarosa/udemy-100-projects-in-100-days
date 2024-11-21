@@ -1,3 +1,10 @@
+"""
+Day 4 Project (Randomisation and Python Lists): Rock Paper Scissors
+
+This project showcases the use of lists and the random library
+by creating a rock paper scissors game.
+"""
+
 import random
 
 rock = """
